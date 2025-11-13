@@ -1,0 +1,5 @@
+{
+  "name": "AI Song Generator",
+  "description": "An AI-powered music generation tool that creates complete songs with metadata based on user prompts for genre and mood.",
+  "requestFramePermissions": []
+}
